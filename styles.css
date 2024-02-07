@@ -39,3 +39,11 @@ div.link a{
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
 }
+
+div.prince
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    width: 350px;
+}
